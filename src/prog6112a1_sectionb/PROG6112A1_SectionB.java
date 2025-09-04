@@ -94,6 +94,7 @@ public class PROG6112A1_SectionB {
                         System.out.println("Safe travels explorer!");
                         running = false;
                     }
+                    //second commit
             }
         }
                 
